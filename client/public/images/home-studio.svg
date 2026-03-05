@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Minimal studio apartment</title>
+  <desc id="desc">Stylized cozy studio interior in neutral shades.</desc>
+  <defs>
+    <linearGradient id="bg" x1="1" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f8efe9"/>
+      <stop offset="100%" stop-color="#edd9cf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="140" y="120" width="920" height="520" rx="20" fill="#fff9f4" stroke="#d6b2a3" stroke-width="6"/>
+  <rect x="210" y="420" width="420" height="150" rx="14" fill="#c7775d"/>
+  <rect x="670" y="240" width="320" height="220" rx="14" fill="#f1cbc0"/>
+  <circle cx="940" cy="190" r="36" fill="#cc5a40"/>
+  <rect x="250" y="230" width="260" height="130" rx="10" fill="#f3ded6"/>
+  <text x="600" y="710" text-anchor="middle" fill="#8f3b2a" font-size="56" font-family="Georgia, serif">Studio Retreat</text>
+</svg>

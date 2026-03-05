@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Modern duplex exterior</title>
+  <desc id="desc">Stylized duplex building with sunset sky.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffe7d6"/>
+      <stop offset="100%" stop-color="#ffd0b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <rect x="0" y="560" width="1200" height="240" fill="#d89174"/>
+  <rect x="220" y="280" width="760" height="300" rx="16" fill="#f9ede7" stroke="#cb7f63" stroke-width="6"/>
+  <polygon points="180,300 600,120 1020,300" fill="#c95f45"/>
+  <rect x="300" y="340" width="140" height="190" rx="10" fill="#a24a35"/>
+  <rect x="490" y="340" width="220" height="120" rx="10" fill="#b9def4"/>
+  <rect x="760" y="340" width="140" height="190" rx="10" fill="#a24a35"/>
+  <text x="600" y="730" text-anchor="middle" fill="#8f3b2a" font-size="56" font-family="Georgia, serif">Modern Duplex</text>
+</svg>

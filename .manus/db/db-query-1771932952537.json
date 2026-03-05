@@ -1,0 +1,9 @@
+{
+  "query": "DROP TABLE IF EXISTS notifications; DROP TABLE IF EXISTS reviews; DROP TABLE IF EXISTS propertyAvailability; DROP TABLE IF EXISTS favorites; DROP TABLE IF EXISTS complaints; DROP TABLE IF EXISTS payments; DROP TABLE IF EXISTS bookings; DROP TABLE IF EXISTS properties;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway04.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 3UWkTAUig4wKZP9.root --database 7na8pBg2JNihwcaHmiiAKt --execute DROP TABLE IF EXISTS notifications; DROP TABLE IF EXISTS reviews; DROP TABLE IF EXISTS propertyAvailability; DROP TABLE IF EXISTS favorites; DROP TABLE IF EXISTS complaints; DROP TABLE IF EXISTS payments; DROP TABLE IF EXISTS bookings; DROP TABLE IF EXISTS properties;",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 1172
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Afie Wura Logo Mark</title>
+  <desc id="desc">A bold W monogram inside a rounded square with a roof silhouette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#141414"/>
+      <stop offset="100%" stop-color="#2f2f2f"/>
+    </linearGradient>
+    <linearGradient id="roof" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#d95b42"/>
+      <stop offset="100%" stop-color="#f08d4a"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="236" height="236" rx="56" fill="url(#bg)"/>
+  <path d="M56 106 L128 58 L200 106" fill="none" stroke="url(#roof)" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M58 96 L79 96 L92 156 L110 108 L126 108 L144 156 L157 96 L178 96 L160 178 L141 178 L118 129 L95 178 L76 178 Z" fill="#f7f2ea"/>
+</svg>

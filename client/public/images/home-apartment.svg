@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Luxury apartment interior</title>
+  <desc id="desc">Stylized apartment interior illustration with warm tones.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f9ebe6"/>
+      <stop offset="100%" stop-color="#f5d8cd"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="120" y="110" width="960" height="520" rx="20" fill="#fff8f5" stroke="#e2b9a8" stroke-width="6"/>
+  <rect x="170" y="170" width="280" height="350" rx="12" fill="#f0c7b6"/>
+  <rect x="500" y="170" width="530" height="230" rx="12" fill="#fbe5dd"/>
+  <rect x="500" y="430" width="530" height="90" rx="12" fill="#d7886f"/>
+  <circle cx="975" cy="215" r="42" fill="#cf5d43"/>
+  <text x="600" y="710" text-anchor="middle" fill="#8f3b2a" font-size="56" font-family="Georgia, serif">Luxury Apartment</text>
+</svg>

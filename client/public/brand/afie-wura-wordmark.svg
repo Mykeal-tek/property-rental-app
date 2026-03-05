@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">Afie Wura Wordmark</title>
+  <desc id="desc">Afie Wura custom wordmark with house accent.</desc>
+  <defs>
+    <linearGradient id="roof" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#d95b42"/>
+      <stop offset="100%" stop-color="#f08d4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" fill="none"/>
+  <g transform="translate(20,20)">
+    <rect x="0" y="0" width="180" height="180" rx="42" fill="#161616"/>
+    <path d="M32 78 L90 40 L148 78" fill="none" stroke="url(#roof)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M38 72 L56 72 L68 126 L84 82 L96 82 L112 126 L124 72 L142 72 L126 132 L110 132 L90 92 L70 132 L54 132 Z" fill="#f7f2ea"/>
+  </g>
+  <text x="230" y="105" fill="#111111" font-size="86" font-weight="800" font-family="Sora, Manrope, system-ui, sans-serif" letter-spacing="4">AFIE WURA</text>
+  <text x="235" y="148" fill="#7a7a7a" font-size="26" font-weight="500" font-family="Manrope, system-ui, sans-serif" letter-spacing="2">PREMIUM RENTALS</text>
+</svg>

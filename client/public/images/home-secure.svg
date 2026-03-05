@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Secure residence</title>
+  <desc id="desc">Stylized residence with secure gate.</desc>
+  <rect width="900" height="600" fill="#f6e7df"/>
+  <rect x="0" y="430" width="900" height="170" fill="#db9a7f"/>
+  <rect x="220" y="180" width="460" height="250" rx="14" fill="#fff7f2" stroke="#c67d62" stroke-width="5"/>
+  <polygon points="190,210 450,90 710,210" fill="#c8563e"/>
+  <rect x="390" y="280" width="120" height="150" rx="10" fill="#a84935"/>
+  <rect x="240" y="300" width="120" height="110" rx="8" fill="#b8dcf3"/>
+  <rect x="540" y="300" width="120" height="110" rx="8" fill="#b8dcf3"/>
+  <rect x="170" y="380" width="560" height="40" rx="8" fill="#9e4d3a"/>
+</svg>
